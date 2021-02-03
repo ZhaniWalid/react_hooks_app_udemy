@@ -1,0 +1,1 @@
+A sample project web app to Add/Retreive/Remove ingredients, developped with ReactJS v16 (using ES6) to show how to use " React Hooks " & " Context " into a React app with Fireabse (Real Time Database as Back-End API) and the ability to remove an ingredient by clicking on it & also filtering list of ingredients by inputing it's name.
